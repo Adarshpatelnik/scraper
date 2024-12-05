@@ -1,0 +1,35 @@
+.dashboard-container {
+    padding: 20px;
+}
+
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.tenant-name, .expiration-date {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.metrics {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.metrics div {
+    background-color: #E0F7FA;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: 30%;
+}
+
+.charts-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
