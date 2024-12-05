@@ -1,0 +1,7 @@
+google_drive:
+  client_secret_file: "C:/Users/Adarsh.Patel/Desktop/API_Google_Drive/credentials.json"
+  folder_id: "1ZcNe05HsjFU7pIHe2xwhWA7Z_IVru-31"
+  download_location: "C:/Users/Adarsh.Patel/Desktop/Download_Folder"
+  upload_folder_id: "1Iezv5n4bLaLgNoE-qGBg2qPMFanL-was"
+  upload_folder: "C:/Users/Adarsh.Patel/Desktop/Download_Folder"
+   
