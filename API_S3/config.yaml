@@ -1,0 +1,15 @@
+aws_credentials:
+  access_key_id: "AKIASQ3IHIRASRMSEOGZ"
+  secret_access_key: "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"
+
+source_bucket_name: "nikb2b"
+file_paths_excel: "C:/Users/AdarshPatel/Desktop/API_S3/file_paths.xlsx"
+download_location: "C:/Users/AdarshPatel/Desktop/New_download"
+ 
+source_excel_file: "C:/Users/AdarshPatel/Desktop/API_S3/file_paths.xlsx"
+excel_sheet_name: file_path
+excel_column_name: FolderName
+
+source_local_folder: /path/to/source/local/folder
+destination_bucket_name: "nikb2b"
+destination_parent_folder: parent/folder/in/s3
